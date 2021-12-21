@@ -10,3 +10,7 @@ function save() {
     console.log(count)
 }
 
+let username = "per"
+let message = "you have three new notifications"
+
+console.log(message + "," + username + "!")
